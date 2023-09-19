@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceci-cast&label=Profile%20views&color=0e75b6&style=flat" alt="ceci-cast" /> </p>
 
-- 🔭 I’m currently working on [Final Project Boho](pf-ptb-grupo-06.vercel.app)
+- 🔭 I’m currently working on [Final Project Boho](https://pf-ptb-grupo-06.vercel.app/)
 
 - 🌱 I’m currently learning **english and others web technologies**
 
@@ -12,6 +12,26 @@
 - 📫 How to reach me **ceciliacastellanorodriguez@gmail.com**
 
 - ⚡ Fun fact **I think that coffee is good at any time of the day**
+
+<h2 align="center">🔥 Current Streak</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceci-cast&" alt="ceci-cast" /></p>
+<br>
+<br>
+
+<h2 align="center">📋 Project</h2>
+
+On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
+
+- [Individual Project](https://github.com/ceci-cast/PI-Food): This individual project called “FOOD” is based on building a web application consuming data from an external API using technologies such as React, Redux, Node, Express and Sequelize, this application comprises a home page, then a main page that will allow the user search for recipes, view recipe information, filter them, sort them alphabetically (ascending / descending) and a form to create new recipes, additionally includes two models in the database: one for the recipes and another for the type of diet, to To obtain the rest of the recipes from the external API, Node and Express were used, for the front-end development, React and Redux were used.
+
+
+-[Final Project][Boho](https://github.com/ceci-cast/Boho): The final project, named "Boho," It is a web application designed for the purchase and sale of tickets for different events, it uses technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter and promote their own events, additionally has third-party authentication through Google and store data locally, process the purchase of one or more events using a payment gateway, leave reviews of the events. The project also includes an administration panel with three user roles (buyer, seller and administrator) and a dashboard for each user role, it additionally has an email notification system and also has a responsive design for mobile devices.
+
+
+I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
+
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
